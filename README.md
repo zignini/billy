@@ -1,11 +1,8 @@
-# Geral
-
 Billy é um projeto pessoal de app de controle de finanças para experimentar e aprender JavaScript na prática. 
 
 ## O que é usado 
 
 1. Bootstrap 
-2. DOM 
 
 # Planejamento 
 
