@@ -15,7 +15,7 @@ Billy é um projeto pessoal de app de controle de finanças para experimentar e 
    3. Texto + botão e inserção acontece na submissão
    4. Texto + botão, inserção pode ser recuperada
 2. CRUD 
-   1. Persistir dados no site usando FTP
+   1. Persistir dados no site usando FTP 
    2. Persistir dados para um servidor 
       1. Criar um servidor web com um BD básico 
       2. Persistir dados
@@ -25,6 +25,7 @@ Billy é um projeto pessoal de app de controle de finanças para experimentar e 
 ### Não principal
 
 1. Adicionar máscara de moeda, milhares e decimal aos valores 
+2. Adicionar espaçamento à esquerda 
 
 ## Feito
 
